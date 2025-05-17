@@ -19,7 +19,7 @@ Rasterbasierte Schiffsschlachten – Schiffe platzieren, Felder beschießen, Tre
 ## 🙏 Für Armin
 
 Ich hab diesen Code geschrieben für Freunde die bei **Armin** Info Unterricht hatten.
-Ich wusste wen er den sieht, erkennt er, dass er von mir ist.
+Ich wusste wenn er den sieht, erkennt er, dass er von mir ist.
 Das war meine Absicht, ein stiller Gruß, verpackt in meinem Stil.
 
 
